@@ -1,0 +1,47 @@
+body
+{
+background:url("w2.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+}
+h1
+{
+font-size:100px;
+font-family:aharoni;
+color:white;
+text-align:center;
+margin-top:100px;
+margin-left:1500px;
+}
+p{
+font-size:40px;
+font-family:italic;
+color:red;
+margin-left:1600px;
+}
+nav
+{
+background-color:green;
+height:60px;
+}
+nav ul
+{
+list-style:none;
+}
+nav ul li{
+display:inline-block;
+color:yellow;
+}
+nav ul li a
+{
+color:white;
+text-decoration:none;
+padding:20px 25px;
+display:block;
+font-size:18px;
+}
+nav ul li a:hover{
+background-color:orange;
+color:red;
+}
+
