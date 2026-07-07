@@ -1,6 +1,6 @@
 body
 {
-background:url("w2.jpg");
+background:url("building.jpg");
 background-size:cover;
 background-repeat:no-repeat;
 }
@@ -8,7 +8,7 @@ h1
 {
 font-size:100px;
 font-family:aharoni;
-color:white;
+color:black;
 text-align:center;
 margin-top:100px;
 margin-left:1500px;
